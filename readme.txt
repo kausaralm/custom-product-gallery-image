@@ -1,5 +1,5 @@
 === Custom Product Gallery Image ===
-Contributors: yourusername
+Contributors: Kausar Alam
 Tags: woocommerce, product gallery, image, product page
 Requires at least: 5.0
 Tested up to: 6.4
